@@ -1,1 +1,1 @@
-I am a junior undergraduate student in the Turing class at the School of EECS, Peking University , co-advised by Prof. Hao Dong and Prof. Yaodong Yang.
+Enrolled at the age of 16, I am currently a freshman undergraduate student majoring in Artificial Intelligence at Yuanpei College, Peking University. My academic journey is guided by Prof. Shanghang Zhang. I am also a member of the Tong Class (an elite undergraduate program in Artificial Intelligence led by Prof. Song-Chun Zhu).
